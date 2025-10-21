@@ -1,0 +1,12 @@
+===== graph1 =====
+Czas działania: 6,350 ms
+
+===== graph2 =====
+Czas działania: 0,474 ms
+
+===== graph3 =====
+Czas działania: 0,360 ms
+
+===== myGraph =====
+Czas działania: 0,293 ms
+

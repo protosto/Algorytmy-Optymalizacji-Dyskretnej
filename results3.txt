@@ -1,0 +1,75 @@
+=== AO Lab1 - Zadanie 3: Silnie spójne składowe (SCC) ===
+===== g3-1.txt =====
+Liczba silnie spójnych składowych: 5
+Rozmiary składowych:
+SCC #1: 5 wierzchołków -> [1, 5, 4, 3, 2]
+SCC #2: 4 wierzchołków -> [12, 15, 14, 13]
+SCC #3: 4 wierzchołków -> [6, 8, 9, 7]
+SCC #4: 2 wierzchołków -> [10, 11]
+SCC #5: 1 wierzchołków -> [16]
+Czas działania: 0,830 ms
+
+===== g3-2.txt =====
+Liczba silnie spójnych składowych: 5
+Rozmiary składowych:
+SCC #1: 6 wierzchołków -> [1, 6, 5, 4, 3, 2]
+SCC #2: 40 wierzchołków -> [67, 106, 105, 104, 103, 102, 101, 100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68]
+SCC #3: 36 wierzchołków -> [7, 13, 19, 25, 31, 37, 38, 39, 40, 41, 42, 36, 35, 29, 28, 34, 22, 21, 27, 33, 15, 9, 8, 16, 10, 23, 17, 11, 30, 24, 18, 12, 32, 26, 20, 14]
+SCC #4: 24 wierzchołków -> [43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66]
+SCC #5: 1 wierzchołków -> [107]
+Czas działania: 0,573 ms
+
+===== g3-3.txt =====
+Liczba silnie spójnych składowych: 5
+Rozmiary składowych:
+SCC #1: 7 wierzchołków
+SCC #2: 400 wierzchołków
+SCC #3: 400 wierzchołków
+SCC #4: 200 wierzchołków
+SCC #5: 1 wierzchołków
+Czas działania: 0,732 ms
+
+===== g3-4.txt =====
+Liczba silnie spójnych składowych: 5
+Rozmiary składowych:
+SCC #1: 8 wierzchołków
+SCC #2: 4000 wierzchołków
+SCC #3: 3600 wierzchołków
+SCC #4: 2400 wierzchołków
+SCC #5: 1 wierzchołków
+Czas działania: 4,927 ms
+
+===== g3-5.txt =====
+Liczba silnie spójnych składowych: 5
+Rozmiary składowych:
+SCC #1: 9 wierzchołków
+SCC #2: 40000 wierzchołków
+SCC #3: 40000 wierzchołków
+SCC #4: 20000 wierzchołków
+SCC #5: 1 wierzchołków
+Czas działania: 19,921 ms
+
+===== g3-6.txt =====
+Liczba silnie spójnych składowych: 5
+Rozmiary składowych:
+SCC #1: 10 wierzchołków
+SCC #2: 400000 wierzchołków
+SCC #3: 360000 wierzchołków
+SCC #4: 240000 wierzchołków
+SCC #5: 1 wierzchołków
+Czas działania: 131,483 ms
+
+===== myConnectedGraph.txt =====
+Liczba silnie spójnych składowych: 3
+Rozmiary składowych:
+SCC #1: 4 wierzchołków -> [1, 4, 3, 2]
+SCC #2: 4 wierzchołków -> [5, 8, 7, 6]
+SCC #3: 4 wierzchołków -> [9, 12, 11, 10]
+Czas działania: 0,020 ms
+
+===== myStronglyConnectedGraph.txt =====
+Liczba silnie spójnych składowych: 1
+Rozmiary składowych:
+SCC #1: 12 wierzchołków -> [1, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2]
+Czas działania: 0,012 ms
+

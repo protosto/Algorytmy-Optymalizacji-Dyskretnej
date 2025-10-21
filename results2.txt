@@ -1,0 +1,42 @@
+===== g2a-1.txt =====
+Czas działania: 0,400 ms
+
+===== g2a-2.txt =====
+Czas działania: 0,334 ms
+
+===== g2a-3.txt =====
+Czas działania: 0,915 ms
+
+===== g2a-4.txt =====
+Czas działania: 5,676 ms
+
+===== g2a-5.txt =====
+Czas działania: 33,041 ms
+
+===== g2a-6.txt =====
+Czas działania: 97,035 ms
+
+===== g2b-1.txt =====
+Czas działania: 0,112 ms
+
+===== g2b-2.txt =====
+Czas działania: 0,031 ms
+
+===== g2b-3.txt =====
+Czas działania: 0,219 ms
+
+===== g2b-4.txt =====
+Czas działania: 2,084 ms
+
+===== g2b-5.txt =====
+Czas działania: 16,997 ms
+
+===== g2b-6.txt =====
+Czas działania: 53,264 ms
+
+===== myAcyclicGraph.txt =====
+Czas działania: 0,081 ms
+
+===== myCyclicGraph.txt =====
+Czas działania: 0,037 ms
+
