@@ -1,0 +1,11 @@
+Minimalny łączny koszt produkcji i magazynowania: 3.8425e+06
+
+Okres  x(normalna)  y(ponadwym.)  s(zapas koniec okresu)
+  1          100             15                0
+  2          100             50               70
+  3          100              0               45
+  4          100             50                0
+
+a) patrz góra 
+b) w okresach 1,3,4
+c) w okresie 2

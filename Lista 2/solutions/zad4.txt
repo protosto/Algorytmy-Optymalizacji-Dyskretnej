@@ -1,0 +1,35 @@
+a) 
+
+Minimalny koszt: 13
+Calkowity czas przejazdu: 15
+
+Krawedzie nalezace do optymalnej sciezki:
+1 -> 2
+2 -> 3
+3 -> 5
+5 -> 7
+7 -> 9
+9 -> 10
+
+b) 
+Grafika grafu znajduje się w za4b.c, jako ograniczenie czasu zostało przyjęte Tlim = 12 (tak aby nie użyć krawędzi 1,5 oraz 1,9 w rozwiązaniu)
+
+Minimalny koszt: 9
+Calkowity czas przejazdu: 9
+
+Krawedzie nalezace do optymalnej sciezki:
+1 -> 2
+2 -> 3
+3 -> 4
+4 -> 5
+5 -> 6
+6 -> 7
+7 -> 8
+8 -> 9
+9 -> 10
+
+c) Wydaje mi się, że jest potrzebna całkowitoliczbowość. W innym przypadku, może zdarzyć się tak, że będziemy wysyłać częścią po 2 różnych krawędziach. Taki mały przykład zamieszczam w pliku zad4c.png. Załóżmy, że nasze ograniczenie na czas to 5, wtedy rozwiązaniem optymalnym będzie wysłanie 4/9 przez krawędź 1,2 i 5/9 przez krawędź 1,3.
+
+d) bez ograniczenia czasu mamy po prostu problem najkrótszej ścieżki i nie ma nigdy powodu ro 
+"rozdzielania" się na różne ścieżki, zawsze wybieramy po prostu najkrótszą. Tym samym rozwiązanie tego problemu będzie całkowitoliczbowe.
+

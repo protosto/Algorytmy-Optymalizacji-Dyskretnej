@@ -1,0 +1,7 @@
+Maksymalny zysk: 3632.5
+
+Optymalny plan produkcji (x[p] > 0):
+Produkt P1 : 125 kg
+Produkt P2 : 100 kg
+Produkt P3 : 150 kg
+Produkt P4 : 500 kg

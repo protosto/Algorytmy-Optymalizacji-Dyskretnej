@@ -1,0 +1,12 @@
+Minimalna laczna liczba radiowozow: 48
+
+Optymalny przydzial (dzielnica, zmiana -> liczba radiowozow):
+p1, zmiana s1 : 2
+p1, zmiana s2 : 6
+p1, zmiana s3 : 5
+p2, zmiana s1 : 3
+p2, zmiana s2 : 7
+p2, zmiana s3 : 7
+p3, zmiana s1 : 5
+p3, zmiana s2 : 7
+p3, zmiana s3 : 6

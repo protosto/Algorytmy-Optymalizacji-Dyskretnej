@@ -1,0 +1,14 @@
+Minimalny koszt = 8.525e+06
+
+Optymalny plan dostaw (x[i,j] > 0):
+Lotnisko L1, Firma F2 : 110000
+Lotnisko L2, Firma F1 : 165000
+Lotnisko L2, Firma F2 : 55000
+Lotnisko L3, Firma F3 : 330000
+Lotnisko L4, Firma F1 : 110000
+Lotnisko L4, Firma F3 : 330000
+
+
+a) patrz góra
+b) tak, wszystkie 3 firmy
+c) Nie, Firma 1 i 3 wyczerpały, Firma 2 nie
